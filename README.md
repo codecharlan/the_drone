@@ -73,6 +73,8 @@ Unit tests can be run using the following command:
 ```shell
     mvn test
    ```
+### Battery Level History/Audit
+Access the battery history logs at src/main/java/com/codecharlan/thedrone/drone_battery_audit/thedrone.log.
 
 ### Technology Used:
 * Java
